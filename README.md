@@ -3,7 +3,7 @@
 To start the app run:
 
 ```
-.run.sh
+.\run.sh
 ```
 
 or
